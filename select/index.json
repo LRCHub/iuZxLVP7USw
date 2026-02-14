@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "背伸びFirst Kiss",
+  "base_artist": "イオ(CV:伊藤静)、ミサキ(CV:久野美咲)、スズナ(CV:上坂すみれ)",
+  "createdAt": "2026-02-14T00:18:07.994497Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "背伸びFirst Kiss",
+      "artist": "イオ(CV:伊藤静)、ミサキ(CV:久野美咲)、スズナ(CV:上坂すみれ)",
+      "has_synced": false,
+      "path": "select/pl_01_背伸びFirst_Kiss_イオ(CV_伊藤静)、ミサキ(CV_久野美咲)、スズナ(CV_上坂すみれ).txt"
+    }
+  ]
+}
